@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , soy Alejandro Peláez Moral </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h1>Sobre mí</h1>
 <p>Soy un estudiante de Desarrallo de Aplicaciones Web, actualmente estoy terminando mi módulo de DAW y realizando las prácticas. Soy un apasionado de la creación web y me encanta proponerme cualquier reto.</p>
