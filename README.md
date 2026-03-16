@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+    <h1 align="center">Hola, soy Alejandro Peláez</h1>
+</div>
 
 <!--
 **PelaezMoralAlejandro/PelaezMoralAlejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
