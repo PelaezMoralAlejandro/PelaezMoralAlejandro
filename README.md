@@ -26,8 +26,6 @@
 
 - ⚡ Hobies :- Me gusta oir música 🎵, dibujar ✏️ y hacer deporte🥊.
 
-<br>
-
 <h3 align="left">Contacta conmigo a través de:</h3>
 <p align="left">
   <a href="#" target="blank"><img align="center"
@@ -43,8 +41,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Alejandro Peláez Moral" height="30" width="40" /></a>
 </p>
-
-<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
