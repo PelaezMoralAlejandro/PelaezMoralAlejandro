@@ -15,6 +15,37 @@
   <a href="https://github.com/PelaezMoralAlejandro/PelaezMoralAlejandro" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=PelaezMoralAlejandro.PelaezMoralAlejandro"></a>
 </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 Actualmente estoy acabando mi grado superior como Desarollador Web
+
+- 🧑🏻 Soy un apasionado del mundo web y me encanta aprender cada día cosas nuevas
+
+- 📫 Como contactar conmigo **alexpelaezmoral@gmail.com**
+
+- ⚡ Hobies :- Me gusta oir música 🎵, dibujar ✏️ y hacer deporte🥊.
+
+<br>
+
+<h3 align="left">Contacta conmigo a través de:</h3>
+<p align="left">
+  <a href="#" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
+  <a href="#" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
+  <a href="#" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
+ <a href="#" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
+</p>
+
+<br>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -27,3 +58,5 @@
     <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,github,html,java,js,linux,mysql,py,react,bootstrap,wordpress,vscode&perline=14" />
   </a>
 </p>
+
+<br>
