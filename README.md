@@ -1,7 +1,7 @@
-<div align="center">
-    <h1 align="center">Hola, soy Alejandro Peláez</h1>
-</div>
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h1>Sobre mí</h1>
+<p>Soy un estudiante de Desarrallo de Aplicaciones Web, actualmente estoy terminando mi módulo de DAW y realizando las prácticas. Soy un apasionado de la creación web y me encanta proponerme cualquier reto.</p>
 <!--
 **PelaezMoralAlejandro/PelaezMoralAlejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
