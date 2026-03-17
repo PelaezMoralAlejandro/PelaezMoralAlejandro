@@ -15,6 +15,13 @@
   <a href="https://github.com/PelaezMoralAlejandro/PelaezMoralAlejandro" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=PelaezMoralAlejandro.PelaezMoralAlejandro"></a>
 </p>
 
+<h1 align="center">Sobre mí</h1>
+<p>Soy una persona responsable, que aprende con rapidez y siempre me gusta aprender y proponerme nuevos retos.</p>
+<p>
+   Tengo un grado en Sistemas Microinformáticos y Redes y actualmente estoy finalizando mi ciclo de Desarrollo de Aplicaciones Web. Me decante por este 
+   módulo porque, desde que entre en el mundo de la informática, siempre me ha llamado la atención. Por ello, siempre busco realizar nuevos proyectos para seguir aprendiendo y creciendo dentro de este sector.
+</p>
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br><br>
