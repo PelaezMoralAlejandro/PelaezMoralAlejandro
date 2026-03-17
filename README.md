@@ -35,7 +35,7 @@
 
 <h3 align="left">Contacta conmigo a través de:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-15a3443b8/?trk=opento_sprofile_goalscard" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-15a3443b8/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Alejandro Peláez Moral" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center"
