@@ -45,9 +45,9 @@
 <br><br><br><br><br><br>
 
 <!--h1 without bottom border-->
-<h1 style="text-aling: center">Tecnologías que conozco👨🏻‍💻</h1>
+<h1 align="center">Tecnologías que conozco👨🏻‍💻</h1>
 <!--tech stack icons-->
-<p style="text-aling: center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,github,html,java,js,linux,mysql,py,react,bootstrap,wordpress,vscode&perline=14" />
   </a>
