@@ -42,12 +42,12 @@
       alt="Alejandro Peláez Moral" height="30" width="40" /></a>
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <!--h1 without bottom border-->
-<div>
+<div style="text-decoration: none; text-aling: center">
   <ul>
-    <summary><h2 style="display: inline-block text-aling: center"">Tecnologías que conozco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
