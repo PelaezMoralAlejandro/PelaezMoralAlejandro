@@ -42,7 +42,7 @@
       alt="Alejandro Peláez Moral" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<br><br><br><br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc" style="text-aling: center">
