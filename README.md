@@ -45,11 +45,7 @@
 <br><br><br><br><br><br>
 
 <!--h1 without bottom border-->
-<div style="text-decoration: none; text-aling: center">
-  <ul>
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<h1 style="text-aling: center">Tecnologías que conozco👨🏻‍💻</h1>
 <!--tech stack icons-->
 <p style="text-aling: center">
   <a href="https://skillicons.dev">
