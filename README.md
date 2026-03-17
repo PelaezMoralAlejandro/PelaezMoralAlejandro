@@ -17,7 +17,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
+<br><br>
 - 🌱 Actualmente estoy acabando mi grado superior como Desarollador Web
 
 - 🧑🏻 Soy un apasionado del mundo web y me encanta aprender cada día cosas nuevas
@@ -42,14 +42,16 @@
       alt="Alejandro Peláez Moral" height="30" width="40" /></a>
 </p>
 
+<br><br>
+
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" style="text-aling: center">
   <ul>
     <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p>
+<p style="text-aling: center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,github,html,java,js,linux,mysql,py,react,bootstrap,wordpress,vscode&perline=14" />
   </a>
