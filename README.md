@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-b154a3413/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
+      alt="Alejandro Peláez Moral" height="30" width="40" />LinkedIn: Alejandro Peláez Moral</a>
 </p>
 
 <br><br>
