@@ -31,8 +31,9 @@
 
 - ⚡ Hobies :- Me gusta oir música 🎵, dibujar ✏️ y hacer deporte🥊.
 
-<h3 align="left">Contacta conmigo a través de:</h3>
-<p align="left">
+<h3 align="center">Contacta conmigo a través de:</h3>
+<hr>
+<p align="center">
   <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-b154a3413/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Alejandro Peláez Moral" height="30" width="40" /></a>
