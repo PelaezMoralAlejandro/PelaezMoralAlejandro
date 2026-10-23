@@ -38,7 +38,7 @@
       alt="Alejandro Peláez Moral" height="30" width="40" /></a>
 </p>
 
-<br><br><br><br><br><br>
+<br><br>
 
 <!--h1 without bottom border-->
 <h1 align="center">Tecnologías que conozco👨🏻‍💻</h1>
