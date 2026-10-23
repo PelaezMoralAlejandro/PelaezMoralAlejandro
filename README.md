@@ -29,15 +29,9 @@
 
 - 📫 Como contactar conmigo **alejandropelaezmoral@gmail.com**
 
-- ⚡ Hobies :- Me gusta oir música 🎵, dibujar ✏️ y hacer deporte🥊.
+- 📫 LinkedIn: <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-b154a3413/" target="blank">clica aquí para ver mi LinkedIn</a>
 
-<h3 align="center">Contacta conmigo a través de:</h3>
-<hr>
-<p align="left">
-  <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-b154a3413/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
-</p>
+- ⚡ Hobies :- Me gusta oir música 🎵, dibujar ✏️ y hacer deporte🥊.
 
 <br><br>
 
