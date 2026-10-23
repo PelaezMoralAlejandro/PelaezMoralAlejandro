@@ -22,30 +22,19 @@
    módulo porque, desde que entre en el mundo de la informática, siempre me ha llamado la atención. Por ello, siempre busco realizar nuevos proyectos para seguir aprendiendo y creciendo dentro de este sector.
 </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 <br><br>
 - 🌱 Actualmente estoy acabando mi grado superior como Desarollador Web
 
 - 🧑🏻 Soy un apasionado del mundo web y me encanta aprender cada día cosas nuevas
 
-- 📫 Como contactar conmigo **alexpelaezmoral@gmail.com**
+- 📫 Como contactar conmigo **alejandropelaezmoral@gmail.com**
 
 - ⚡ Hobies :- Me gusta oir música 🎵, dibujar ✏️ y hacer deporte🥊.
 
 <h3 align="left">Contacta conmigo a través de:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-15a3443b8/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-b154a3413/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Alejandro Peláez Moral" height="30" width="40" /></a>
- <a href="#" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Alejandro Peláez Moral" height="30" width="40" /></a>
 </p>
 
