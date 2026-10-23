@@ -23,15 +23,20 @@
 </p>
 
 <br><br>
-- 🌱 Actualmente estoy acabando mi grado superior como Desarollador Web
 
-- 🧑🏻 Soy un apasionado del mundo web y me encanta aprender cada día cosas nuevas
+- 🎓 Título en Técnico en Sistemas Informáticos y Redes
+
+- 🎓 Título en Desarrollo de Aplicaciones Web
+
+- 🌱 Actualmente estoy acabando mi grado superior como Desarollador Multiplataforma
+
+- 🧑🏻 Soy un apasionado de la informática y es por ello que me gusta aprender cada día más de ella
 
 - 📫 Como contactar conmigo **alejandropelaezmoral@gmail.com**
 
 - 📫 LinkedIn: <a href="https://www.linkedin.com/in/alejandro-pel%C3%A1ez-moral-b154a3413/" target="blank">clica aquí para ver mi LinkedIn</a>
 
-- ⚡ Hobies :- Me gusta oir música 🎵, dibujar ✏️ y hacer deporte🥊.
+- ⚡ Hobies :- Me gusta oir música 🎵, dibujar ✏️ y hacer deporte🥊
 
 <br><br>
 
